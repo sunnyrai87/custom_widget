@@ -10,7 +10,7 @@ class zingo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: "Custom Widgets",
+        title: "GIT project testing",
         theme: ThemeData(
           brightness: Brightness.light,
         ),
@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Custom Widgets"),
+        title: Text("GIT project testing"),
       ),
       body: Column(
         children: [

@@ -4,7 +4,7 @@ class UIHelper {
   static InputDecoration mDecoration(
       {required String mlebel,
       required String hint,
-      double bRadius = 21,
+      double bRadius = 11,
       Color bColor = Colors.black,
       double bwidth = 1}) {
     return InputDecoration(
